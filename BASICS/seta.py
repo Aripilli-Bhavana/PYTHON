@@ -4,4 +4,4 @@ print(thisset)#duplicate vlues are ignored
 
 thisset = {"apple", "banana", "cherry"}
 
-print(len(thisset))
+print(len(thisset)) #length
